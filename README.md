@@ -10,7 +10,7 @@ I am committed to refining test processes, optimizing test suites, and working c
 
 ###### <p align="center"><a href="https://pl.freepik.com/darmowe-wektory/szczesliwi-malutcy-ludzie-w-poblizu-ogromnej-powitalnej-plaskiej-ilustracji_11235579.htm#query=welcome&position=10&from_view=search&track=robertav1_2_sidr" target="_blank"><i>Image by rawpixel.com on Freepik</i></a></p> 
 
-## ▶️ <a href="https://www.linkedin.com/in/manuela-wystup/"> My <b>LinkedIn</b> profile</a> ◀️
+## ▶️ <a href="https://www.linkedin.com/in/manuela-wystup/"> My <b>LinkedIn</b> profile</a>
 
 ### Testing tools
 
