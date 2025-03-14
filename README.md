@@ -32,6 +32,8 @@ I am committed to refining test processes, optimizing test suites, and working c
 
 * &nbsp; ![Playwright](https://img.shields.io/badge/-Playwright-0A1A2F?style=flat&logo=playwright&logoColor=00d8fd)
 
+* &nbsp; ![Typescript](https://img.shields.io/badge/-Typescript-0A1A2F?style=flat&logo=typescript&logoColor=00d8fd)
+
 * &nbsp; ![REST API](https://img.shields.io/badge/-REST%20API-0A1A2F?style=flat&logo=restapi&logoColor=00d8fd)
 
 * &nbsp; ![Postman](https://img.shields.io/badge/-Postman-0A1A2F?style=flat&logo=postman&logoColor=00d8fd)
