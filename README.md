@@ -13,20 +13,14 @@ I am committed to refining test processes, optimizing test suites, and working c
 ## ▶️ <a href="https://www.linkedin.com/in/manuela-wystup/"> My <b>LinkedIn</b> profile</a>
 
 ### Testing tools
+* &nbsp; ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0A1A2F?style=flat&logo=azuredevops&logoColor=00d8fd)
 
 * &nbsp; ![Jira](https://img.shields.io/badge/-Jira-0A1A2F?style=flat&logo=jira&logoColor=00d8fd)
-  
-* &nbsp; ![Confluence](https://img.shields.io/badge/-Confluence-0A1A2F?style=flat&logo=confluence&logoColor=00d8fd)
 
-* &nbsp; ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0A1A2F?style=flat&logo=azuredevops&logoColor=00d8fd)
+* &nbsp; ![Confluence](https://img.shields.io/badge/-Confluence-0A1A2F?style=flat&logo=confluence&logoColor=00d8fd)
 
 * &nbsp; ![TestRail](https://img.shields.io/badge/-TestRail-0A1A2F?style=flat&logo=testrail&logoColor=00d8fd)
          ![Zephyr](https://img.shields.io/badge/-Zephyr-0A1A2F?style=flat&logo=zephyr&logoColor=00d8fd)
-
-* &nbsp; ![GIT](https://img.shields.io/badge/-GIT-0A1A2F?style=flat&logo=git&logoColor=00d8fd)
-         ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github&logoColor=00d8fd)
-
-* &nbsp; ![SQL](https://img.shields.io/badge/-SQL-0A1A2F?style=flat&logo=sql&logoColor=00d8fd)
 
 * &nbsp; ![DevTools](https://img.shields.io/badge/-DevTools-0A1A2F?style=flat&logo=devtools&logoColor=00d8fd)
 
@@ -38,6 +32,16 @@ I am committed to refining test processes, optimizing test suites, and working c
 
 * &nbsp; ![Postman](https://img.shields.io/badge/-Postman-0A1A2F?style=flat&logo=postman&logoColor=00d8fd)
 
+* &nbsp; ![SQL](https://img.shields.io/badge/-SQL-0A1A2F?style=flat&logo=sql&logoColor=00d8fd)
+
+* &nbsp; ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma&logoColor=00d8fd)
+
+* &nbsp; ![GIT](https://img.shields.io/badge/-GIT-0A1A2F?style=flat&logo=git&logoColor=00d8fd)
+         ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github&logoColor=00d8fd)
+
+* &nbsp; ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker&logoColor=00d8fd)
+
+
 * &nbsp; ![JSON](https://img.shields.io/badge/-JSON-0A1A2F?style=flat&logo=json&logoColor=00d8fd)
          ![XML](https://img.shields.io/badge/-XML-0A1A2F?style=flat&logo=xml&logoColor=00d8fd)
 
@@ -48,8 +52,6 @@ I am committed to refining test processes, optimizing test suites, and working c
 * &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
          ![Web Storm](https://img.shields.io/badge/-Web%20Storm-0A1A2F?style=flat&logo=web-storm&logoColor=007ACC)
   
-* &nbsp; ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma&logoColor=00d8fd)
-
 * &nbsp; ![Trello](https://img.shields.io/badge/-Trello-0A1A2F?style=flat&logo=trello&logoColor=00d8fd)
 
 * &nbsp; ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-0A1A2F?style=flat&logo=microsoftteams&logoColor=00d8fd)
