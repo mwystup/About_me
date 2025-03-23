@@ -26,8 +26,6 @@ I am committed to refining test processes, optimizing test suites, and working c
 
 * &nbsp; ![Playwright](https://img.shields.io/badge/-Playwright-0A1A2F?style=flat&logo=playwright&logoColor=00d8fd)
 
-* &nbsp; ![Typescript](https://img.shields.io/badge/-Typescript-0A1A2F?style=flat&logo=typescript&logoColor=00d8fd)
-
 * &nbsp; ![REST API](https://img.shields.io/badge/-REST%20API-0A1A2F?style=flat&logo=restapi&logoColor=00d8fd)
 
 * &nbsp; ![Postman](https://img.shields.io/badge/-Postman-0A1A2F?style=flat&logo=postman&logoColor=00d8fd)
@@ -41,13 +39,12 @@ I am committed to refining test processes, optimizing test suites, and working c
 
 * &nbsp; ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker&logoColor=00d8fd)
 
-
 * &nbsp; ![JSON](https://img.shields.io/badge/-JSON-0A1A2F?style=flat&logo=json&logoColor=00d8fd)
          ![XML](https://img.shields.io/badge/-XML-0A1A2F?style=flat&logo=xml&logoColor=00d8fd)
 
-* &nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=html5&logoColor=00d8fd)
+* &nbsp; ![Typescript](https://img.shields.io/badge/-Typescript-0A1A2F?style=flat&logo=typescript&logoColor=00d8fd)
+         ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=html5&logoColor=00d8fd)
          ![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=flat&logo=css3&logoColor=00d8fd)
-         ![JavaScript](https://img.shields.io/badge/-Java%20Script-0A1A2F?style=flat&logo=java-script&logoColor=00d8fd)
          
 * &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
          ![Web Storm](https://img.shields.io/badge/-Web%20Storm-0A1A2F?style=flat&logo=web-storm&logoColor=007ACC)
